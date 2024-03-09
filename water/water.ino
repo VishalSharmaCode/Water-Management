@@ -1,9 +1,9 @@
 #include <IOXhop_FirebaseESP32.h>
 #include<WiFi.h>
-char ssid[] = "Redmi9";
-char password[] = "sharmaji";
-char firebaseHost[] = "https://water-management-c0c55-default-rtdb.asia-southeast1.firebasedatabase.app/";
-char firebaseKey[] = "AIzaSyCJPaU-mxNwBrUNAHhjL4EuF0xtI3fJ8YI";
+char ssid[] = "";
+char password[] = "";
+char firebaseHost[] = "";
+char firebaseKey[] = "";
 
 
 int X;
